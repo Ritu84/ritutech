@@ -29,8 +29,8 @@ export default function Header() {
       <SocialsWrapper />
       <div className="!mt-8 text-sm">
         Currently working as a Software Developer at{' '}
-        <Link href="https://zocket.ai" target="_blank">
-          Stealth Startup
+        <Link href="https://ikyam.com/" target="_blank">
+          Ikyam
         </Link>
       
         ,on a fintech product i.e., trading platform with high returns and profits. Working here as a FullStack developer.{' '}
@@ -38,7 +38,7 @@ export default function Header() {
         <Link href="https://www.finaccru.com/" target="_blank">
          Finaccru (an international firm)
         </Link>{' '}
-        as an software engineering intern. Worked on building an innovative accounting platform.
+        as a software engineering intern. Worked on building an innovative accounting platform.
       </div>
     </header>
     <div className="flex gap-2 items-center my-6">
