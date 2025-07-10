@@ -33,7 +33,7 @@ export default function Header() {
           Ikyam
         </Link>
       
-        ,on a fintech product i.e., trading platform with high returns and profits. Working here as a FullStack developer.{' '}
+        , on a fintech product i.e., trading platform with high returns and profits. Working here as a FullStack developer.{' '}
         Also, worked with{' '}
         <Link href="https://www.finaccru.com/" target="_blank">
          Finaccru (an international firm)
